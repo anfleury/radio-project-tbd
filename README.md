@@ -1,4 +1,6 @@
-# Radio Project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-@Isaac, you're responsible for coming up with a punny name.
+# Wave Catcher / Road Tripper 
+
+Plan your next road trip with us and find out which radio stations are en route!
 
