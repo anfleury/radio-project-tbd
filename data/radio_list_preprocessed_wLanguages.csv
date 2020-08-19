@@ -1,0 +1,537 @@
+,call sign,owner,format,lat,long,station name,power,p. unit,frequency,city of licence,n_stations,language,genre
+0,CJKX-FM,Durham Radio,country,43.85833,-79.03639,KX 96,50,kW,95.9 FM,Ajax,1,1,country
+1,CJNK-FM,Weatheradio Canada,weather alerts,45.58417,-78.35833,Weatheradio,50,w,100.1 FM,Algonquin Park,2,1,weather alerts
+2,CJNK-FM-1,Weatheradio Canada,weather alerts,45.58417,-78.35833,Weatheradio,22,w,101.3 FM,Algonquin Park East,1,1,weather alerts
+3,CJNK-FM-2,Weatheradio Canada,weather alerts,45.58417,-78.35833,Weatheradio,22,w,101.3 FM,Algonquin Park West,1,1,weather alerts
+4,CFOA-FM,Friends of Algonquin Park,tourist/park information,45.58417,-78.35833,Algonquin Park,10,w,102.7 FM,Algonquin Park,2,1,tourist/park information
+5,CIMA-FM,My Broadcasting Corporation,adult contemporary,44.1499,-79.8632,my FM,3.75,kW,92.1 FM,Alliston,1,1,adult contemporary
+6,CFSH-FM,Apsley Community Chapel,Christian radio,44.75,-78.1,The Fish 92 9,50,w,92.9 FM,Apsley,1,1,christian radio
+7,CBQT-FM-2,CBC Radio One,public news/talk,50.305,-89.04194,CBC Radio One,50,w,91.3 FM,Armstrong,1,1,public news/talk
+8,CFMP-FM,My Broadcasting Corporation,adult contemporary,45.433,-76.35,Oldies 107.7,2.5,kW,107.7 FM,Arnprior,1,1,adult contemporary
+9,CBQI-FM,CBC Radio One,public news/talk,48.75,-91.617,CBC Radio One,2.9,kW,90.1 FM,Atikokan,2,1,public news/talk
+10,CKPR-FM-2,Dougall Media,adult contemporary,48.75,-91.617,91 5 CKPR,180,w,93.5 FM,Atikokan,2,1,adult contemporary
+11,CKMT-FM,Wawatay,First Nations community radio,52.82056,-83.88333,WRN,10,w,89.9 FM,Attawapiskat,2,1,first nations community radio
+12,CBCA-FM,CBC Radio One,public news/talk,52.82056,-83.88333,CBC Radio One,34,w,101.5 FM,Attawapiskat,2,1,public news/talk
+13,CHPD-FM,Aylmer and area Inter-Mennonite Community Council,Mennonite community radio (German),42.767,-80.983,Da Brigj,250,w,105.9 FM,Aylmer,1,1,mennonite community radio
+14,CHMS-FM,Vista Broadcast Group,adult contemporary,45.05,-77.85,97 7 Moose FM,50,kW,97.7 FM,Bancroft,3,1,adult contemporary
+15,CBLA-FM-5,CBC Radio One,public news/talk,45.05,-77.85,CBC Radio One,269,w,99.3 FM,Bancroft,3,1,public news/talk
+16,CKJJ-FM-4,United Christian Broadcasters Canada,Christian radio,45.05,-77.85,UCB Canada,250,w,103.5 FM,Bancroft,3,1,christian radio
+17,CHAY-FM,Corus Entertainment,hot adult contemporary,44.37111,-79.67694,93 1 Fresh Radio,100,kW,93.1 FM,Barrie,7,1,hot adult contemporary
+18,CFJB-FM,Rock 95 Broadcasting,active rock,44.37111,-79.67694,Rock 95,100,kW,95.7 FM,Barrie,7,1,active rock
+19,CKEY-FM,Douglas George Edwards,tourist information,44.37111,-79.67694,Tourism Radio,50,w,98.5 FM,Barrie,7,1,tourist information
+20,CJLF-FM,Trust Communications,Christian radio,44.37111,-79.67694,Life 100.3,32.8,kW,100.3 FM,Barrie,7,1,christian radio
+21,CIQB-FM,Corus Entertainment,classic rock,44.37111,-79.67694,101.1 Big FM,7.5,kW,101.1 FM,Barrie,7,1,classic rock
+22,CFRH-FM-1,Radio Huronie,community radio (French),44.37111,-79.67694,CFRH,175,w,106.7 FM,Barrie,7,1,community radio
+23,CKMB-FM,Rock 95 Broadcasting,hot adult contemporary,44.37111,-79.67694,107 5 Kool FM,50,kW,107.5 FM,Barrie,7,1,hot adult contemporary
+24,CHBY-FM,Vista Broadcast Group,adult contemporary,45.483,-77.683,106 5 Moose FM,12,kW,106.5 FM,Barry's Bay,1,1,adult contemporary
+25,CBLE,CBC Radio One,public news/talk,50.0,-86.733,CBC Radio One,40,w,1240 AM,Beardmore,2,1,public news/talk
+26,CFNO-FM-3,Dougall Media,adult contemporary,50.0,-86.733,CFNO,260,w,107.1 FM,Beardmore,2,1,adult contemporary
+27,CFBL-FM,Wawatay,First Nations community radio,53.92472,-90.96944,WRN,1,w,90.1 FM,Bearskin Lake,2,1,first nations community radio
+28,CIDE-FM-1,Wawatay,First Nations community radio,53.92472,-90.96944,Wahsa,10,w,91.9 FM,Bearskin Lake,2,1,first nations community radio
+29,CJBQ,Quinte Broadcasting,full service/variety,44.167,-77.383,800 CJBQ,10,kW,800 AM,Belleville,8,1,full service/variety
+30,CJLX-FM,Loyalist College,campus radio,44.167,-77.383,91X,3.2,kW,91.3 FM,Belleville,8,1,campus radio
+31,CJBC-1-FM,Ici Radio-Canada Première,public news/talk (French),44.167,-77.383,IRC Première,42.28,kW,94.3 FM,Belleville,8,1,public news/talk
+32,CJOJ-FM,Starboard Communications,classic hits,44.167,-77.383,95 5 Hits FM,35,kW,95.5 FM,Belleville,8,1,classic hits
+33,CIGL-FM,Quinte Broadcasting,hot adult contemporary,44.167,-77.383,Mix 97,50,kW,97.1 FM,Belleville,8,1,hot adult contemporary
+34,CHCQ-FM,Starboard Communications,country,44.167,-77.383,Cool 100,32,kW,100.1 FM,Belleville,8,1,country
+35,CKJJ-FM,United Christian Broadcasters Canada,Christian radio,44.167,-77.383,UCB Canada,15,kW,102.3 FM,Belleville,8,1,christian radio
+36,CBO-FM-1,CBC Radio One,public news/talk,44.167,-77.383,CBC Radio One,10,kW,104.7 FM,Belleville,8,1,public news/talk
+37,CIDE-FM-2,Wawatay,First Nations community radio,53.817,-89.933,Wahsa,10,w,91.9 FM,Big Trout Lake,2,1,first nations community radio
+38,CFTL-FM,Ayamowin Communications Society,First Nations community radio,53.817,-89.933,CBC Radio One CORB,63,w,100.3 FM,Big Trout Lake,2,1,first nations community radio
+39,CBON-FM-6,Ici Radio-Canada Première,public news/talk (French),46.183,-82.95,IRC Première,136,w,98.5 FM,Blind River,1,1,public news/talk
+40,CIBU-FM-1,Blackburn Radio,active rock,43.45,-81.6,Classic Rock 94 5,6,kW,91.7 FM,Bluewater,1,1,active rock
+41,CJFB-FM,Vista Broadcast Group,community radio,43.88056,-79.73806,Moose FM,50,w,102.7 FM,Bolton,2,1,community radio
+42,CJFB-FM,Vista Broadcast Group,community radio,43.88056,-79.73806,Moose FM,1.1,kW,102.7 FM,Bolton,2,1,community radio
+43,CFBG-FM,Vista Broadcast Group,hot adult contemporary,45.033,-79.3,99 5 The Moose,12,kW,99.5 FM,Bracebridge,1,1,hot adult contemporary
+44,CFNY-FM,Corus Entertainment,modern rock,43.683,-79.767,102.1 The Edge,35.4,kW,102.1 FM,Brampton,1,1,modern rock
+45,CKPC,Evanov Communications,full service/variety,43.167,-80.25,1380 CKPC,25,kW,1380 AM,Brantford,3,1,full service/variety
+46,CKPC-FM,Evanov Communications,adult contemporary,43.167,-80.25,Jewel 92,80,kW,92.1 FM,Brantford,3,1,adult contemporary
+47,CFWC-FM,Sound of Faith Broadcasting,Christian radio,43.167,-80.25,Arise Brantford,250,w,93.9 FM,Brantford,3,1,christian radio
+48,CIYM-FM,My Broadcasting Corporation,adult contemporary,44.12222,-77.76417,Oldies 100.9,316,w,100.9 FM,Brighton,1,1,adult contemporary
+49,CBEZ-FM,CBC Radio One,public news/talk,45.783,-80.533,CBC Radio One,49,w,107.7 FM,Britt,1,1,public news/talk
+50,CBOB-FM,CBC Radio One,public news/talk,44.583,-75.683,CBC Radio One,1.571,kW,91.9 FM,Brockville,5,1,public news/talk
+51,CKJJ-FM-2,United Christian Broadcasters Canada,Christian radio,44.583,-75.683,UCB Canada,50,w,99.9 FM,Brockville,5,1,christian radio
+52,CBOF-FM-7,Ici Radio-Canada Première,public news/talk (French),44.583,-75.683,IRC Première,1.495,kW,102.1 FM,Brockville,5,1,public news/talk
+53,CJPT-FM,Bell Media Radio,adult hits,44.583,-75.683,103 7 Bob FM,100,kW,103.7 FM,Brockville,5,1,adult hits
+54,CFJR-FM,Bell Media Radio,adult contemporary,44.583,-75.683,104 9 JR FM,7.7,kW,104.9 FM,Brockville,5,1,adult contemporary
+55,CBPS-FM,CBC/Weatheradio Canada,weather alerts,44.94536,-81.27686,Weatheradio,50,w,90.7 FM,Bruce Peninsula,1,1,weather alerts
+56,CJXY-FM,Corus Entertainment,active rock,43.317,-79.8,Y108,26.1,kW,107.9 FM,Burlington,1,1,active rock
+57,CHTG-FM,Durham Radio Inc.,classic hits,43.067,-79.95,92 9 The Grand,10,kW,92.9 FM,Caledonia,1,1,classic hits
+58,CJDV-FM,Corus Entertainment,active rock,43.39722,-80.31139,107 5 Dave Rocks,6,kW,107.5 FM,Cambridge,1,1,active rock
+59,CKOL-FM,Campbellford Area Radio Association,community radio,44.3,-77.8,CKOL,500,w,93.7 FM,Campbellford,1,1,community radio
+60,CJPS-FM,Wawatay,First Nations community radio,51.72778,-91.82861,WRN,10,w,89.9 FM,Cat Lake,2,1,first nations community radio
+61,CIDE-FM-3,Wawatay,First Nations community radio,51.72778,-91.82861,Wahsa,10,w,91.9 FM,Cat Lake,2,1,first nations community radio
+62,CICW-FM,Centre Wellington Community Radio,community radio,43.7,-80.367,The Grand at 101,2.25,kW,101.1 FM,Centre Wellington,1,1,community radio
+63,CBCU-FM,CBC Radio One,public news/talk,47.833,-83.4,CBC Radio One,345,w,89.9 FM,Chapleau,4,1,public news/talk
+64,CBON-FM-28,Ici Radio-Canada Première,public news/talk (French),47.833,-83.4,IRC Première,345,w,91.9 FM,Chapleau,4,1,public news/talk
+65,CHAP-FM,Formation Plus,community-owned rebroadcaster of CHYC-FM Sudbury,47.833,-83.4,Le Loup 98.9,40,w,95.9 FM,Chapleau,4,1,community-owned rebroadcaster of chyc-fm sudbury
+66,CJWA-FM-1,Labbe Media,adult contemporary,47.833,-83.4,Jjam FM,111,w,100.7 FM,Chapleau,4,1,adult contemporary
+67,CFCO,Blackburn Radio,country,42.4,-82.18333,CFCO,10/6,kW,630 AM,Chatham,6,1,country
+68,CBEE-FM,CBC Radio One,public news/talk,42.4,-82.18333,CBC Radio One,1.43,kW,88.1 FM,Chatham,6,1,public news/talk
+69,CKGW-FM,United Christian Broadcasters Canada,Christian radio,42.4,-82.18333,UCB Canada,18.7,kW,89.3 FM,Chatham,6,1,christian radio
+70,CFCO-1-FM,Blackburn Radio,country,42.4,-82.18333,CFCO,250,w,92.9 FM,Chatham,6,1,country
+71,CKSY-FM,Blackburn Radio,hot adult contemporary,42.4,-82.18333,94 3 CKSY,50,kW,94.3 FM,Chatham,6,1,hot adult contemporary
+72,CKUE-FM,Blackburn Radio,classic hits,42.4,-82.18333,Cool FM,42,kW,95.1 FM,Chatham,6,1,classic hits
+73,CKUN-FM,Chimnissing Communications,First Nations community radio,44.833,-80.2,Nish 101.3,900,w,101.3 FM,Christian Island,1,1,first nations community radio
+74,CHRC-FM,Evanov Communications,adult contemporary,45.483,-75.2,Jewel 92 5,333,w,92.5 FM,Clarence-Rockland,1,1,adult contemporary
+75,CHJJ-FM,United Christian Broadcasters Canada,Christian radio,43.967,-78.167,UCB Canada,250,w,90.7 FM,Cobourg,4,1,christian radio
+76,CKSG-FM,My Broadcasting Corporation,hot adult contemporary,43.967,-78.167,my FM,15.5,kW,93.3 FM,Cobourg,4,1,hot adult contemporary
+77,CFMX-FM,ZoomerMedia,classical,43.967,-78.167,Classical FM,86.7,kW,103.1 FM,Cobourg,4,1,classical
+78,CHUC-FM,My Broadcasting Corporation,classic hits,43.967,-78.167,Classic Rock 107.9,20,kW,107.9 FM,Cobourg,4,1,classic hits
+79,CHPB-FM,Vista Broadcast Group,adult contemporary,49.067,-81.017,Moose 98.1,50,w,98.1 FM,Cochrane,2,1,adult contemporary
+80,CFCJ-FM,Cochrane Christian Radio,Christian radio,49.067,-81.017,CFCJ,37,w,102.1 FM,Cochrane,2,1,christian radio
+81,CKCB-FM,Corus Entertainment,adult contemporary,44.5,-80.217,95 1 The Peak,350,w,95.1 FM,Collingwood,2,1,adult contemporary
+82,CFMO-FM,ZoomerMedia,pop standards,44.5,-80.217,Classical FM,23,kW,102.9 FM,Collingwood,2,1,pop standards
+83,CKID-FM,Wawatay,First Nations community radio,49.805,-84.13472,WRN,10,w,89.9 FM,Constance Lake,1,1,first nations community radio
+84,CHRI-FM-1,Christian Hit Radio Inc.,Christian radio,45.0275,-74.74,CHRI,50,w,88.1 FM,Cornwall,6,1,christian radio
+85,CHOD-FM,Radio communautaire Cornwall-Alexandria,community radio (French),45.0275,-74.74,FM 92.1,45.6,kW,92.1 FM,Cornwall,6,1,community radio
+86,CBOC-FM,CBC Radio One,public news/talk,45.0275,-74.74,CBC Radio One,3,kW,95.5 FM,Cornwall,6,1,public news/talk
+87,CBOF-FM-6,Ici Radio-Canada Première,public news/talk (French),45.0275,-74.74,IRC Première,3,kW,98.1 FM,Cornwall,6,1,public news/talk
+88,CJSS-FM,Corus Entertainment,classic hits,45.0275,-74.74,boom 101 9,3.2,kW,101.9 FM,Cornwall,6,1,classic hits
+89,CFLG-FM,Corus Entertainment,adult contemporary,45.0275,-74.74,104 5 Fresh Radio,28.24,kW,104.5 FM,Cornwall,6,1,adult contemporary
+90,CBLA-FM-1,CBC Radio One,public news/talk,42.8675,-79.05917,CBC Radio One,740,w,90.5 FM,Crystal Beach,1,1,public news/talk
+91,CBCD-FM-1,CBC Radio One,public news/talk,46.1,-77.4917,CBC Radio One,50,w,97.9 FM,Deep River,1,1,public news/talk
+92,CKDL-FM,Wawatay,First Nations community radio,52.633,-94.083,WRN,1,w,90.1 FM,Deer Lake,2,1,first nations community radio
+93,CIDE-FM-4,Wawatay,First Nations community radio,52.633,-94.083,Wahsa,10,w,91.9 FM,Deer Lake,2,1,first nations community radio
+94,CKDR-FM,Acadia Broadcasting,adult contemporary,49.783,-92.833,CKDR,39,kW,92.7 FM,Dryden,4,1,adult contemporary
+95,CBQH-FM,CBC Radio One,public news/talk,49.783,-92.833,CBC Radio One,1.3,kW,100.9 FM,Dryden,4,1,public news/talk
+96,CKSB-6-FM,Ici Radio-Canada Première,public news/talk (French),49.783,-92.833,IRC Première,1.29,kW,102.7 FM,Dryden,4,1,public news/talk
+97,CKQV-FM-1,Norwesto Communications,CHR,49.783,-92.833,Q104,1.9,kW,104.3 FM,Dryden,4,1,chr
+98,CBON-FM-11,Ici Radio-Canada Première,public news/talk (French),48.35,-84.55,IRC Première,50,w,97.9 FM,Dubreuilville,1,1,public news/talk
+99,CBOI-FM,CBC Radio One,public news/talk,50.633,-93.217,CBC Radio One,50,w,95.5 FM,Ear Falls,2,1,public news/talk
+100,CKDR-FM-4,Northwoods Broadcasting,adult contemporary,50.633,-93.217,CKDR,50,w,97.5 FM,Ear Falls,2,1,adult contemporary
+101,CBCG-FM,CBC Radio One,public news/talk,47.71056,-80.33944,CBC Radio One,116,w,89.7 FM,Elk Lake,1,1,public news/talk
+102,CBEC-FM,CBC Radio One,public news/talk,46.383,-82.65,CBC Radio One,264,w,90.3 FM,Elliot Lake,5,1,public news/talk
+103,CKNR-FM,Vista Broadcast Group,adult contemporary,46.383,-82.65,The Moose 94.1,90,kW,94.1 FM,Elliot Lake,5,1,adult contemporary
+104,CKNR-FM-1,Vista Broadcast Group,adult contemporary,46.383,-82.65,The Moose 94.1,50,w,98.7 FM,Elliot Lake,5,1,adult contemporary
+105,CBON-FM-5,Ici Radio-Canada Première,public news/talk (French),46.383,-82.65,IRC Première,2.64,kW,101.7 FM,Elliot Lake,5,1,public news/talk
+106,CJTK-FM-3,Eternacom,Christian radio,46.383,-82.65,KFM,865,w,102.5 FM,Elliot Lake,5,1,christian radio
+107,CJBB-FM,Boyd Woods,community radio,47.817,-79.867,The Train,2.94,kW,103.1 FM,Englehart,2,1,community radio
+108,CJTK-FM-7,Eternacom,Christian radio,47.817,-79.867,KFM,3.3,kW,105.7 FM,Englehart,2,1,christian radio
+109,CHES-FM,Erin Radio,community radio,43.767,-80.067,Erin Radio,2.5,kW,91.7 FM,Erin,1,1,community radio
+110,CBON-FM-7,Ici Radio-Canada Première,public news/talk (French),46.25,-81.767,IRC Première,520,w,94.9 FM,Espanola,2,1,public news/talk
+111,CJJM-FM,Vista Broadcast Group,adult hits,46.25,-81.767,The Moose 99.3,1.41,kW,99.3 FM,Espanola,2,1,adult hits
+112,CKXM-FM,My Broadcasting Corporation,adult contemporary,43.35,-81.483,my FM,2.95,kW,90.5 FM,Exeter,1,1,adult contemporary
+113,CBLF,CBC Radio One,public news/talk,48.24389,-82.43972,CBC Radio One,40,w,1450 AM,Foleyet,1,1,public news/talk
+114,CKFA-FM,Wawatay,First Nations community radio,52.333,-81.767,WRN,10,w,90.1 FM,Fort Albany,2,1,first nations community radio
+115,CBCI-FM,CBC Radio One,public news/talk,52.333,-81.767,CBC Radio One,2.4,kW,102.3 FM,Fort Albany,2,1,public news/talk
+116,CFLZ-FM,Brynes communications,Oldies,42.917,-79.017,101.1 More FM,50,kW,101.1 FM,Fort Erie,1,1,oldies
+117,CKSB-9-FM,Ici Radio-Canada Première,public news/talk (French),48.617,-93.4,IRC Première,12.17,kW,89.1 FM,Fort Frances,3,1,public news/talk
+118,CBQQ-FM,CBC Radio One,public news/talk,48.617,-93.4,CBC Radio One,23.55,kW,90.5 FM,Fort Frances,3,1,public news/talk
+119,CFOB-FM,Acadia Broadcasting,hot adult contemporary,48.617,-93.4,93 1 The Border,21,kW,93.1 FM,Fort Frances,3,1,hot adult contemporary
+120,CBCF-FM,CBC Radio One,public news/talk,51.55,-87.9,CBC Radio One,60,w,101.5 FM,Fort Hope,1,1,public news/talk
+121,CKFS-FM,Wawatay,First Nations community radio,55.983,-87.633,WRN,1,w,90.1 FM,Fort Severn,2,1,first nations community radio
+122,CIDE-FM-5,Wawatay,First Nations community radio,55.983,-87.633,Wahsa,10,w,91.9 FM,Fort Severn,2,1,first nations community radio
+123,CJGM-FM,My Broadcasting Corporation,adult contemporary,44.33,-76.17,my FM,4.47,kW,99.9 FM,Gananoque,1,1,adult contemporary
+124,CFGI-FM,Georgina Island First Nations Communications,First Nations community radio,44.333,-79.283,NISH Radio,650,w,92.3 FM,Georgina Island,1,1,first nations community radio
+125,CBLG-FM,CBC Radio One,public news/talk,50.0,-86.733,CBC Radio One,25.123,kW,89.1 FM,Geraldton,3,1,public news/talk
+126,CBON-FM-22,Ici Radio-Canada Première,public news/talk (French),50.0,-86.733,IRC Première,9.216,kW,93.7 FM,Geraldton,3,1,public news/talk
+127,CFNO-FM-4,Dougall Media,adult contemporary,50.0,-86.733,CFNO,130,w,100.7 FM,Geraldton,3,1,adult contemporary
+128,CIYN-FM-1,My Broadcasting Corporation,classic hits,43.733,-81.7,my FM,750,w,99.7 FM,Goderich,2,1,classic hits
+129,CHWC-FM,Bayshore Broadcasting,country,43.733,-81.7,Country 104.9,12.55,kW,104.9 FM,Goderich,2,1,country
+130,CBON-FM-21,Ici Radio-Canada Première,public news/talk (French),47.667,-81.717,IRC Première,5.031,kW,104.9 FM,Gogama,1,1,public news/talk
+131,CIIG-FM,Instant Information Services,tourist information,44.917,-79.367,Information Radio,50,w,98.3 FM,Gravenhurst,1,1,tourist information
+132,CJMU-FM,Bayshore Broadcasting,country,44.917,-79.367,Country 102,23,kW,102.3 FM,Gravenhurst/Bracebridge,1,1,country
+133,CBBS-FM,CBC Music,public music,46.49,-81.01,CBC Music,50,kW,90.1 FM,Greater Sudbury,13,1,public music
+134,CBBX-FM,Ici Musique,public music (French),46.49,-81.01,Ici musique,50,kW,90.9 FM,Greater Sudbury,13,1,public music
+135,CICS-FM,Bell Media Radio,country,46.49,-81.01,Pure Country 91 7,50,kW,91.7 FM,Greater Sudbury,13,1,country
+136,CJRQ-FM,Rogers Communications,active rock,46.49,-81.01,92 7 Rock,100,kW,92.7 FM,Greater Sudbury,13,1,active rock
+137,CIGM-FM,Stingray Digital,CHR,46.49,-81.01,Hot 93 5,100,kW,93.5 FM,Greater Sudbury,13,1,chr
+138,CJTK-FM,Eternacom,Christian radio,46.49,-81.01,KFM,8.1,kW,95.5 FM,Greater Sudbury,13,1,christian radio
+139,CKLU-FM,Laurentian University,campus radio,46.49,-81.01,CKLU,2,kW,96.7 FM,Greater Sudbury,13,1,campus radio
+140,CBON-FM,Ici Radio-Canada Première,public news/talk (French),46.49,-81.01,IRC Première,50,kW,98.1 FM,Greater Sudbury,13,1,public news/talk
+141,CHYC-FM,Le5 Communications,hot adult contemporary (French),46.49,-81.01,Le Loup 98.9,3.82,kW,98.9 FM,Greater Sudbury,13,1,hot adult contemporary
+142,CBCS-FM,CBC Radio One,public news/talk,46.49,-81.01,CBC Radio One,50,kW,99.9 FM,Greater Sudbury,13,1,public news/talk
+143,CKJC-FM,1158556 Ontario Ltd. (Roger de Brabant),tourist information,46.49,-81.01,CHTI,50,w,101.7 FM,Greater Sudbury,13,1,tourist information
+144,CHNO-FM,Stingray Digital,classic hits,46.49,-81.01,Rewind 103.9,100,kW,103.9 FM,Greater Sudbury,13,1,classic hits
+145,CJMX-FM,Rogers Communications,hot adult contemporary,46.49,-81.01,Kiss 105.3,100,kW,105.3 FM,Greater Sudbury,13,1,hot adult contemporary
+146,CJOY,Corus Entertainment,oldies,43.55,-80.25,CJOY,10,kW,1460 AM,Guelph,3,1,oldies
+147,CFRU-FM,University of Guelph,campus radio,43.55,-80.25,CFRU 93.3 FM,250,w,93.3 FM,Guelph,3,1,campus radio
+148,CIMJ-FM,Corus Entertainment,hot adult contemporary,43.55,-80.25,Magic 106,50,kW,106.1 FM,Guelph,3,1,hot adult contemporary
+149,CBLY-FM,CBC Radio One,public news/talk,45.2,-78.417,CBC Radio One,50,w,92.3 FM,Haliburton,3,1,public news/talk
+150,CFZN-FM,Vista Broadcast Group,adult hits,45.2,-78.417,93 5 Moose FM,6,kW,93.5 FM,Haliburton,3,1,adult hits
+151,CKHA-FM,Haliburton County Radio Association,community radio,45.2,-78.417,100.9 Canoe FM,3.4,kW,100.9 FM,Haliburton,3,1,community radio
+152,CHAM,Bell Media Radio,comedy,43.25667,-79.86917,Funny 820,50/10,kW,820 AM,Hamilton,8,1,comedy
+153,CHML,Corus Entertainment,news/talk,43.25667,-79.86917,Global N. R. 900 CHML,50,kW,900 AM,Hamilton,8,1,news/talk
+154,CKOC,Bell Media Radio,sports,43.25667,-79.86917,TSN 1150,50/20,kW,1150 AM,Hamilton,8,1,sports
+155,CFMU-FM,McMaster University,campus radio,43.25667,-79.86917,CFMU,250,w,93.3 FM,Hamilton,8,1,campus radio
+156,CHKX-FM,Durham Radio,country,43.25667,-79.86917,KX 94 7,100,kW,94.7 FM,Hamilton,8,1,country
+157,CING-FM,Corus Entertainment,adult contemporary,43.25667,-79.86917,Energy 95 3,100,kW,95.3 FM,Hamilton,8,1,adult contemporary
+158,CIOI-FM,Mohawk College,campus radio,43.25667,-79.86917,The Hawk,240,w,101.5 FM,Hamilton,8,1,campus radio
+159,CKLH-FM,Bell Media Radio,adult contemporary,43.25667,-79.86917,102 9 K Lite,40.3,kW,102.9 FM,Hamilton,8,1,adult contemporary
+160,CFBW-FM,Bluewater Radio,community radio,44.15,-81.033,BWR,250,w,91.3 FM,Hanover,1,1,community radio
+161,CIMF-FM-1,Bell Media Radio,adult contemporary (French),45.6,-74.6,Rouge fm,1.25,kW,88.9 FM,Hawkesbury,3,1,adult contemporary
+162,CHPR-FM,RNC Media,adult contemporary (French),45.6,-74.6,Wow 104.9 102.1,780,w,102.1 FM,Hawkesbury,3,1,adult contemporary
+163,CKHK-FM,Evanov Communications,pop standards,45.6,-74.6,Jewel 107 7,1.1,kW,107.7 FM,Hawkesbury,3,1,pop standards
+164,CBON-FM-26,Ici Radio-Canada Première,public news/talk (French),49.68694,-83.65444,IRC Première,8.34,kW,90.3 FM,Hearst,3,1,public news/talk
+165,CINN-FM,Radio de l'Épinette Noire,community radio (French),49.68694,-83.65444,CINN FM,5.46,kW,91.1 FM,Hearst,3,1,community radio
+166,CBCC-FM,CBC Radio One,public news/talk,49.68694,-83.65444,CBC Radio One,8.34,kW,91.9 FM,Hearst,3,1,public news/talk
+167,CBQT-FM-1,CBC Radio One,public news/talk,49.217,-84.783,CBC Radio One,50,w,92.3 FM,Hornepayne,2,1,public news/talk
+168,CFNO-FM-2,Dougall Media,adult contemporary,49.217,-84.783,CFNO,280,w,107.1 FM,Hornepayne,2,1,adult contemporary
+169,CKAR-FM,Hunter's Bay Radio Inc.,community radio,45.333,-79.217,Hunters Bay Radio,5.7,kW,88.7 FM,Huntsville,5,1,community radio
+170,CBLU-FM,CBC Radio One,public news/talk,45.333,-79.217,CBC Radio One,70,kW,94.3 FM,Huntsville,5,1,public news/talk
+171,CJLF-FM-3,Trust Communications,Christian radio,45.333,-79.217,Life 100.3,750,w,98.9 FM,Huntsville,5,1,christian radio
+172,CFBK-FM,Vista Broadcast Group,adult contemporary,45.333,-79.217,105 5 Moose FM,43.4,kW,105.5 FM,Huntsville,5,1,adult contemporary
+173,CBL-FM-1,CBC Music,public music,45.333,-79.217,CBC Music,70,kW,106.9 FM,Huntsville,5,1,public music
+174,CBES,CBC Radio One,public news/talk,49.417,-91.667,CBC Radio One,40,w,690 AM,Ignace,2,1,public news/talk
+175,CKDR-FM-1,Northwoods Broadcasting,adult contemporary,49.417,-91.667,CKDR,50,w,97.5 FM,Ignace,2,1,adult contemporary
+176,VF2561,Douglas George Edwards,tourist information,44.3,-79.583,Tourism Radio,1,w,96.9 FM,Innisfil,1,1,tourist information
+177,CFIF-FM,Vista Broadcast Group,adult contemporary,48.767,-80.667,Moose 98.1,33,w,101.1 FM,Iroquois Falls,2,1,adult contemporary
+178,CJTK-FM-11,Eternacom,Christian radio,48.767,-80.667,KFM,540,w,105.9 FM,Iroquois Falls,2,1,christian radio
+179,CFQK-FM,Northwest Broadcasting,hot adult contemporary,48.5348,-89.5703,Energy 103 104,50,w,104.5 FM,Kaministiquia,1,1,hot adult contemporary
+180,CKGN-FM,Radio communautaire KapNord,community radio (French),49.417,-82.433,CKGN,3,kW,89.7 FM,Kapuskasing,4,1,community radio
+181,CBON-FM-24,Ici Radio-Canada Première,public news/talk (French),49.417,-82.433,IRC Première,43.9,kW,90.7 FM,Kapuskasing,4,1,public news/talk
+182,CKAP-FM,Vista Broadcast Group,adult contemporary,49.417,-82.433,The Moose,12,kW,100.9 FM,Kapuskasing,4,1,adult contemporary
+183,CBOK-FM,CBC Radio One,public news/talk,49.417,-82.433,CBC Radio One,43.9,kW,105.1 FM,Kapuskasing,4,1,public news/talk
+184,CFKP-FM,Wawatay,First Nations community radio,53.583,-88.65,WRN,1,w,90.1 FM,Kasabonika,2,1,first nations community radio
+185,CIDE-FM-6,Wawatay,First Nations community radio,53.583,-88.65,Wahsa,10,w,91.9 FM,Kasabonika,2,1,first nations community radio
+186,CKAS-FM,Wawatay,First Nations community radio,52.2917,-81.65,WRN,1,w,90.1 FM,Kashechewan,1,1,first nations community radio
+187,CIDE-FM-21,Wawatay,First Nations community radio,52.983,-92.8,Wahsa,8,w,91.9 FM,Keewaywin,1,1,first nations community radio
+188,CJRL-FM,Acadia Broadcasting,adult contemporary,49.767,-94.483,89 5 The Lake,50,kW,89.5 FM,Kenora,4,1,adult contemporary
+189,CKSB-7-FM,Ici Radio-Canada Première,public news/talk (French),49.767,-94.483,IRC Première,21.721,kW,93.5 FM,Kenora,4,1,public news/talk
+190,CBQX-FM,CBC Radio One,public news/talk,49.767,-94.483,CBC Radio One,41.222,kW,98.7 FM,Kenora,4,1,public news/talk
+191,CKQV-FM-2,Golden West Broadcasting,CHR,49.767,-94.483,Q104,1.6,kW,104.5 FM,Kenora,4,1,chr
+192,CKTI-FM,Points Eagle Radio,First Nations community radio,43.2,-82.0,The Eagle,420,w,107.7 FM,Kettle Point,1,1,first nations community radio
+193,CIYN-FM,My Broadcasting Corporation,classic hits,44.167,-81.633,my FM,5.66,kW,95.5 FM,Kincardine,1,1,classic hits
+194,CHCR-FM,Homegrown Community Radio,community radio,45.5645,-77.4196,CHCR,33,w,102.9 FM,Killaloe,1,1,community radio
+195,CFKL-FM,Wawatay,First Nations community radio,53.02694,-89.84111,WRN,1,w,90.1 FM,Kingfisher Lake,2,1,first nations community radio
+196,CIDE-FM-7,Wawatay,First Nations community radio,53.02694,-89.84111,Wahsa,10,w,91.9 FM,Kingfisher Lake,2,1,first nations community radio
+197,CKVI-FM,Kingston Collegiate and Vocational Institute,community Radio,44.233,-76.5,The Cave,2,kW,91.9 FM,Kingston,12,1,community radio
+198,CBBK-FM,CBC Music,public music,44.233,-76.5,CBC Music,1.2,kW,92.9 FM,Kingston,12,1,public music
+199,CKXC-FM,Rogers Communications,country,44.233,-76.5,Country 93.5,7.5,kW,93.5 FM,Kingston,12,1,country
+200,CFMK-FM,Corus Entertainment,classic hits,44.233,-76.5,96 3 Big FM,28,kW,96.3 FM,Kingston,12,1,classic hits
+201,CFLY-FM,Bell Media Radio,hot adult contemporary,44.233,-76.5,98 3 Fly FM,95.5,kW,98.3 FM,Kingston,12,1,hot adult contemporary
+202,CKLC-FM,Bell Media Radio,country,44.233,-76.5,Pure Country 99,15,kW,98.9 FM,Kingston,12,1,country
+203,CJBC-2-FM,Ici Radio-Canada Première,public news/talk (French),44.233,-76.5,IRC Première,1.563,kW,99.5 FM,Kingston,12,1,public news/talk
+204,CKJJ-FM-3,United Christian Broadcasters Canada,Christian radio,44.233,-76.5,UCB Canada,50,w,100.5 FM,Kingston,12,1,christian radio
+205,CFRC-FM,Queen's University,campus radio,44.233,-76.5,CFRC,3,kW,101.9 FM,Kingston,12,1,campus radio
+206,CKWS-FM,Corus Entertainment,classic hits,44.233,-76.5,104 3 Fresh Radio,8,kW,104.3 FM,Kingston,12,1,classic hits
+207,CIKR-FM,Rogers Communications,active rock,44.233,-76.5,K Rock 105 7,50,kW,105.7 FM,Kingston,12,1,active rock
+208,CBCK-FM,CBC Radio One,public news/talk,44.233,-76.5,CBC Radio One,100,kW,107.5 FM,Kingston,12,1,public news/talk
+209,CBCR-FM,CBC Radio One,public news/talk,48.15,-80.03333,CBC Radio One,2.65,kW,90.3 FM,Kirkland Lake,3,1,public news/talk
+210,CBON-FM-1,Ici Radio-Canada Première,public news/talk (French),48.15,-80.03333,IRC Première,2.65,kW,93.7 FM,Kirkland Lake,3,1,public news/talk
+211,CJKL-FM,Connelly Communications,adult contemporary,48.15,-80.03333,CJKL FM,23,kW,101.5 FM,Kirkland Lake,3,1,adult contemporary
+212,CKGL,Rogers Communications,news/talk,43.41861,-80.47278,570 News,10,kW,570 AM,Kitchener,5,1,news/talk
+213,CJIQ-FM,Conestoga College,campus radio,43.41861,-80.47278,CJIQ,8.22,kW,88.3 FM,Kitchener,5,1,campus radio
+214,CKBT-FM,Corus Entertainment,CHR,43.41861,-80.47278,91 5 The Beat,10,kW,91.5 FM,Kitchener,5,1,chr
+215,CJTW-FM,Sound of Faith Broadcasting,Christian radio,43.41861,-80.47278,Faith FM,420,w,93.7 FM,Kitchener,5,1,christian radio
+216,CHYM-FM,Rogers Communications,adult contemporary,43.41861,-80.47278,CHYM 96.7,80,kW,96.7 FM,Kitchener,5,1,adult contemporary
+217,CKZY-FM,Lac Seul Radio,First Nations community radio,50.25,-92.217,CKZY 90.3,10,w,89.9 FM,Lac Seul,2,1,first nations community radio
+218,CIDE-FM-8,Wawatay,First Nations community radio,50.25,-92.217,Wahsa,10,w,91.9 FM,Lac Seul,2,1,first nations community radio
+219,CBEW-FM-1,CBC Radio One,public news/talk,42.067,-82.583,CBC Radio One,10.45,kW,91.9 FM,Leamington,4,1,public news/talk
+220,CJSP-FM,Blackburn Radio,country,42.067,-82.583,Country 95 9,4,kW,92.7 FM,Leamington,4,1,country
+221,CHYR-FM,Blackburn Radio,adult contemporary,42.067,-82.583,Mix 96.7,27,kW,96.7 FM,Leamington,4,1,adult contemporary
+222,CBEF-1-FM,Ici Radio-Canada Première,public news/talk (French),42.067,-82.583,IRC Première,1,kW,103.1 FM,Leamington,4,1,public news/talk
+223,CKLY-FM,Bell Media Radio,adult hits,44.35417,-78.74111,91 9 Bob FM,11.4,kW,91.9 FM,Lindsay,1,1,adult hits
+224,CBCE-FM,CBC Radio One,public news/talk,45.967,-81.933,CBC Radio One,21,kW,97.5 FM,Little Current,4,1,public news/talk
+225,CFRM-FM,Manitoulin Radio Communication,community radio,45.967,-81.933,Hits 100,15,kW,100.7 FM,Little Current,4,1,community radio
+226,CJTK-FM-2,Eternacom,Christian radio,45.967,-81.933,KFM,1.3,kW,102.1 FM,Little Current,4,1,christian radio
+227,CHAW-FM,Manitoulin Radio Communication,country,45.967,-81.933,Country 103,24.8,kW,103.1 FM,Little Current,4,1,country
+228,CFPL,Corus Entertainment,news/talk,42.98361,-81.24972,980 CFPL,10/5,kW,980 AM,London,13,1,news/talk
+229,CJBK,Bell Media Radio,news/talk,42.98361,-81.24972,NewsTalk 1290,10,kW,1290 AM,London,13,1,news/talk
+230,CJBX-FM,Bell Media Radio,country,42.98361,-81.24972,Pure Country 93,50,kW,92.7 FM,London,13,1,country
+231,CBCL-FM,CBC Radio One,public news/talk,42.98361,-81.24972,CBC Radio One,100,kW,93.5 FM,London,13,1,public news/talk
+232,CHRW-FM,University of Western Ontario,campus radio,42.98361,-81.24972,Radio Western,6,kW,94.9 FM,London,13,1,campus radio
+233,CFPL-FM,Corus Entertainment,active rock,42.98361,-81.24972,FM 96,300,kW,95.9 FM,London,13,1,active rock
+234,CIQM-FM,Bell Media Radio,CHR,42.98361,-81.24972,97 5 Virgin Radio,50,kW,97.5 FM,London,13,1,chr
+235,CKLO-FM,Blackburn Radio,classic rock,42.98361,-81.24972,Classic Rock 98 1,40,kW,98.1 FM,London,13,1,classic rock
+236,CJBC-4-FM,Ici Radio-Canada Première,public news/talk (French),42.98361,-81.24972,IRC Première,15.34,kW,99.3 FM,London,13,1,public news/talk
+237,CHJX-FM,Sound of Faith Broadcasting,Christian radio,42.98361,-81.24972,Faith FM,500,w,99.9 FM,London,13,1,christian radio
+238,CBBL-FM,CBC Music,public music,42.98361,-81.24972,CBC Music,15.34,kW,100.5 FM,London,13,1,public music
+239,CHST-FM,Rogers Communications,classic hits,42.98361,-81.24972,Jack 102 3,100,kW,102.3 FM,London,13,1,classic hits
+240,CIXX-FM,Fanshawe College,campus radio,42.98361,-81.24972,106.9 The X,3,kW,106.9 FM,London,13,1,campus radio
+241,CFNO-FM-5,Dougall Media,adult contemporary,50.0,-86.733,CFNO,4,w,107.1 FM,Longlac,1,1,adult contemporary
+242,CBEB-FM,CBC Radio One,public news/talk,49.133,-85.833,CBC Radio One,4.78,kW,89.7 FM,Manitouwadge,2,1,public news/talk
+243,CBON-FM-23,Ici Radio-Canada Première,public news/talk (French),49.133,-85.833,IRC Première,143,w,96.9 FM,Manitouwadge,2,1,public news/talk
+244,CFNO-FM,Dougall Media,adult contemporary,48.75,-86.367,CFNO,50,kW,93.1 FM,Marathon,3,1,adult contemporary
+245,CBON-FM-29,Ici Radio-Canada Première,public news/talk (French),48.75,-86.367,IRC Première,3.862,kW,102.3 FM,Marathon,3,1,public news/talk
+246,CBLM-FM,CBC Radio One,public news/talk,48.75,-86.367,CBC Radio One,3.935,kW,107.5 FM,Marathon,3,1,public news/talk
+247,CFMS-FM,Bhupinder Bola (OBCI),English adult contemporary/Multilingual,43.87667,-79.26333,105.9 The Region,3,kW,105.9 FM,Markham,1,1,english adult contemporary/multilingual
+248,CBON-12,Ici Radio-Canada Première,public news/talk (French),46.317,-78.7,IRC Première,40,w,1090 AM,Mattawa,3,1,public news/talk
+249,CBLO,CBC Radio One,public news/talk,46.317,-78.7,CBC Radio One,40,w,1240 AM,Mattawa,3,1,public news/talk
+250,CJTK-FM-4,Eternacom,Christian radio,46.317,-78.7,KFM,50,w,93.9 FM,Mattawa,3,1,christian radio
+251,CBOD-FM,CBC Radio One,public news/talk,45.233,-77.933,CBC Radio One,110,w,89.3 FM,Maynooth,2,1,public news/talk
+252,CKJJ-FM-5,United Christian Broadcasters Canada,Christian radio,45.233,-77.933,UCB Canada,32,w,94.7 FM,Maynooth,2,1,christian radio
+253,CHYF-FM,Anong Migwans Beam (GIMA Radio),First Nations community radio,45.833,-82.167,Gimaa Radio,50,w,88.9 FM,M'Chigeeng First Nation,1,1,first nations community radio
+254,CJGB-FM,Evanov Communications,adult contemporary,44.58,-80.73,Jewel 99 3,100,w,99.3 FM,Meaford,1,1,adult contemporary
+255,CICZ-FM,Bell Media Radio,classic hits,44.75,-79.883,104.1 The Dock,20,kW,104.1 FM,Midland,1,1,classic hits
+256,CJML-FM,My Broadcasting Corporation,adult contemporary,43.50833,-79.88333,my FM,2,kW,101.3 FM,Milton,1,1,adult contemporary
+257,CIDE-FM-11,Wawatay,First Nations community radio,51.235,-90.23889,Wahsa,10,w,91.9 FM,Mishkeegogamang,2,1,first nations community radio
+258,CBQN-FM,CBC Radio One,public news/talk,51.235,-90.23889,CBC Radio One,81,w,104.5 FM,Mishkeegogamang,2,1,public news/talk
+259,CKNT,Elliot Kerr,news/talk,43.6,-79.65,News Talk Sauga 960,2/0.28,kW,960 AM,Mississauga,3,1,news/talk
+260,CJMR,Prime Time Radio,multilingual,43.6,-79.65,CJMR 1320,10,kW,1320 AM,Mississauga,3,1,multilingual
+261,CINA,Neeti P. Ray (OBCI),multilingual,43.6,-79.65,CINA 1650,5/0.68,kW,1650 AM,Mississauga,3,1,multilingual
+262,CJFI-FM,Moose River Broadcasting Association,First Nations community radio,51.25833,-80.6,The Island,50,w,107.1 FM,Moose Factory,1,1,first nations community radio
+263,VF2372,Lac Seul Radio,community radio LPFM,51.27222,-80.64306,CKZY 90.3,8,w,89.9 FM,Moosonee,2,1,community radio lpfm
+264,CBEY-FM,CBC Radio One,public news/talk,51.27222,-80.64306,CBC Radio One,135,w,99.9 FM,Moosonee,2,1,public news/talk
+265,CIWN-FM,Saugeen Community Radio Inc.,community radio,43.98167,-80.73667,The River,1.88,kW,88.7 FM,Mount Forest,1,1,community radio
+266,CIDE-FM-9,Wawatay,First Nations community radio,53.367,-91.85,Wahsa,10,w,91.9 FM,Muskrat Dam,2,1,first nations community radio
+267,CFMD-FM,Wawatay,First Nations community radio,53.367,-91.85,WRN,1,w,105.1 FM,Muskrat Dam,2,1,first nations community radio
+268,CFNP-FM,Wawatay,First Nations community radio,48.85,-93.58306,WRN,10,w,90.1 FM,Naicatchewenin,1,1,first nations community radio
+269,CBLN-FM,CBC Radio One,public news/talk,50.0,-86.733,CBC Radio One,50,w,98.1 FM,Nakina,2,1,public news/talk
+270,CFNO-FM-7,Dougall Media,adult contemporary,50.0,-86.733,CFNO,49,w,107.1 FM,Nakina,2,1,adult contemporary
+271,CKYM-FM,My Broadcasting Corporation,adult contemporary,44.25,-76.95,my FM,11.1,kW,88.7 FM,Napanee,1,1,adult contemporary
+272,CJTK-FM-6,Eternacom,Christian radio,47.517,-79.683,KFM,530,w,100.9 FM,New Liskeard,1,1,christian radio
+273,CKDX-FM,Evanov Communications,pop standards,44.05,-79.467,Jewel 88 5,30,kW,88.5 FM,Newmarket,2,1,pop standards
+274,CHOP-FM,Pickering College,campus radio,44.05,-79.467,102.7 CHOP FM,5,w,102.7 FM,Newmarket,2,1,campus radio
+275,CHFN-FM,Chippewas of Nawash,First Nations community radio,44.908279,-81.022634,CHFN 100.1 FM,72,w,100.1 FM,Neyaashiinigmiing,1,1,first nations community radio
+276,CJED-FM,Byrnes Communications,Adult Contemporary,43.06,-79.10667,105.1 The River,15,kW,105.1 FM,Niagara Falls,1,1,adult contemporary
+277,CBON-FM-19,Ici Radio-Canada Première,public news/talk (French),49.01528,-88.26833,IRC Première,2,kW,97.3 FM,Nipigon,3,1,public news/talk
+278,CBQY-FM,CBC Radio One,public news/talk,49.01528,-88.26833,CBC Radio One,2,kW,98.9 FM,Nipigon,3,1,public news/talk
+279,CFNO-FM-1,Dougall Media,adult contemporary,49.01528,-88.26833,CFNO,200,w,100.7 FM,Nipigon,3,1,adult contemporary
+280,CKAT,Rogers Communications,country,46.3,-79.45,Country 600,10/5,kW,600 AM,North Bay,7,1,country
+281,CBON-FM-17,Ici Radio-Canada Première,public news/talk (French),46.3,-79.45,IRC Première,100,kW,95.1 FM,North Bay,7,1,public news/talk
+282,CBCN-FM,CBC Radio One,public news/talk,46.3,-79.45,CBC Radio One,100,kW,96.1 FM,North Bay,7,1,public news/talk
+283,CHUR-FM,Rogers Communications,hot adult contemporary,46.3,-79.45,Kiss 100.5,100,kW,100.5 FM,North Bay,7,1,hot adult contemporary
+284,CKFX-FM,Rogers Communications,active rock,46.3,-79.45,101 9 Rock,100,kW,101.9 FM,North Bay,7,1,active rock
+285,CJTK-FM-1,Eternacom,Christian radio,46.3,-79.45,KFM,800,w,103.5 FM,North Bay,7,1,christian radio
+286,CFXN-FM,Vista Broadcast Group,adult hits,46.3,-79.45,106 3 Moose FM,10,kW,106.3 FM,North Bay,7,1,adult hits
+287,CIDE-FM-10,Wawatay,First Nations community radio,52.483,-93.033,Wahsa,10,w,91.9 FM,North Spirit Lake,1,1,first nations community radio
+288,CJYE,Trafalgar Broadcasting,Christian radio,43.45,-79.683,Joy Radio,10,kW,1250 AM,Oakville,1,1,christian radio
+289,CKRZ-FM,Southern Onkwehonwe Nishinaabec,First Nations community radio,43.067,-80.117,CKRZ,5,kW,100.3 FM,Ohsweken,1,1,first nations community radio
+290,CKMO-FM,My Broadcasting Corporation,adult contemporary,43.917,-80.117,my FM,625,w,101.5 FM,Orangeville,2,1,adult contemporary
+291,CIDC-FM,Evanov Communications,CHR,43.917,-80.117,Z103 5,30.7,kW,103.5 FM,Orangeville,2,1,chr
+292,CISO-FM,Bayshore Broadcasting,adult contemporary,44.6,-79.417,89 1 Max FM,2.5,kW,89.1 FM,Orillia,4,1,adult contemporary
+293,CBL-FM-3,CBC Music,public music,44.6,-79.417,CBC Music,5.5,kW,90.7 FM,Orillia,4,1,public music
+294,CBCO-FM,CBC Radio One,public news/talk,44.6,-79.417,CBC Radio One,13.52,kW,91.5 FM,Orillia,4,1,public news/talk
+295,CICX-FM,Bell Media Radio,country,44.6,-79.417,Pure Country 106,20,kW,105.9 FM,Orillia,4,1,country
+296,CKDO,Durham Radio,oldies,43.9,-78.85,CKDO,10,kW,1580 AM,Oshawa,3,1,oldies
+297,CKGE-FM,Durham Radio,active rock,43.9,-78.85,94 9 The Rock,50,kW,94.9 FM,Oshawa,3,1,active rock
+298,CKDO-FM-1,Durham Radio,oldies,43.9,-78.85,CKDO,2,kW,107.7 FM,Oshawa,3,1,oldies
+299,CFRA,Bell Media Radio,news/talk,45.42472,-75.695,News Talk 580 CFRA,50/30,kW,580 AM,Ottawa,26,1,news/talk
+300,CFGO,Bell Media Radio,sports,45.42472,-75.695,TSN 1200,50,kW,1200 AM,Ottawa,26,1,sports
+301,CIWW,Rogers Communications,news,45.42472,-75.695,1310 News,50,kW,1310 AM,Ottawa,26,1,news
+302,CHYW,Macdonald-Cartier International Airport,tourist/airport information,45.42472,-75.695,AM 1630,99,w,1630 AM,Ottawa,26,1,tourist/airport information
+303,CILV-FM,Stingray Digital,modern rock,45.42472,-75.695,Live 88 5,90,kW,88.5 FM,Ottawa,26,1,modern rock
+304,CHUO-FM,University of Ottawa,campus radio,45.42472,-75.695,CHUO,18.1,kW,89.1 FM,Ottawa,26,1,campus radio
+305,CIHT-FM,Stingray Digital,CHR,45.42472,-75.695,Hot 89 9,27,kW,89.9 FM,Ottawa,26,1,chr
+306,CBOF-FM,Ici Radio-Canada Première,public news/talk (French),45.42472,-75.695,IRC Première,84,kW,90.7 FM,Ottawa,26,1,public news/talk
+307,CBO-FM,CBC Radio One,public news/talk,45.42472,-75.695,CBC Radio One,84,kW,91.5 FM,Ottawa,26,1,public news/talk
+308,VF8013,Fabrique de la Paroisse du Sacré-Coeur du diocèse d'Ottawa,Christian radio (French),45.42472,-75.695,Paroisse du Sacré-Coeur,1,w,92.3 FM,Ottawa,26,1,christian radio
+309,CKCU-FM,Carleton University,campus radio,45.42472,-75.695,CKCU,12,kW,93.1 FM,Ottawa,26,1,campus radio
+310,CKKL-FM,Bell Media Radio,country,45.42472,-75.695,Pure Country 94,95,kW,93.9 FM,Ottawa,26,1,country
+311,CJFO-FM,Radio de la communauté francophone d’Ottawa,community radio (French),45.42472,-75.695,Unique FM,2,kW,94.5 FM,Ottawa,26,1,community radio
+312,CFPO-FM,First Peoples Radio Inc.,First Nations,45.42472,-75.695,elmnt fm,9.1,kW,95.7 FM,Ottawa,26,1,first nations
+313,CJLL-FM,CHIN Radio/TV International,multilingual,45.42472,-75.695,CHIN,6.77,kW,97.9 FM,Ottawa,26,1,multilingual
+314,CJWL-FM,Evanov Communications,pop standards,45.42472,-75.695,Jewel 98 5,2.5,kW,98.5 FM,Ottawa,26,1,pop standards
+315,CHRI-FM,Christian Hit Radio Inc.,Christian radio,45.42472,-75.695,CHRI,66,kW,99.1 FM,Ottawa,26,1,christian radio
+316,CJOT-FM,Corus Entertainment,classic hits,45.42472,-75.695,boom 99 7,100,kW,99.7 FM,Ottawa,26,1,classic hits
+317,CJMJ-FM,Bell Media Radio,adult contemporary,45.42472,-75.695,Majic 100,100,kW,100.3 FM,Ottawa,26,1,adult contemporary
+318,CIDG-FM,Frank Torres (OBCI),Mainstream rock,45.42472,-75.695,Rebel 101.7,21,kW,101.7 FM,Ottawa,26,1,mainstream rock
+319,CBOX-FM,Ici Musique,public music (French),45.42472,-75.695,Ici musique,84,kW,102.5 FM,Ottawa,26,1,public music
+320,CBOQ-FM,CBC Music,public music,45.42472,-75.695,CBC Music,84,kW,103.3 FM,Ottawa,26,1,public music
+321,CISS-FM,Rogers Communications,hot adult contemporary,45.42472,-75.695,Kiss 105 3,84,kW,105.3 FM,Ottawa,26,1,hot adult contemporary
+322,CHEZ-FM,Rogers Communications,classic rock,45.42472,-75.695,Chez 106,100,kW,106.1 FM,Ottawa,26,1,classic rock
+323,CKQB-FM,Corus Entertainment,Top 40/CHR,45.42472,-75.695,Jump 106 9,84,kW,106.9 FM,Ottawa,26,1,top 40/chr
+324,CKDJ-FM,Algonquin College,campus radio,45.42472,-75.695,CKDJ,100,w,107.9 FM,Ottawa,26,1,campus radio
+325,CFOS,Bayshore Broadcasting,oldies,44.567,-80.933,560 CFOS,7.5/1,kW,560 AM,Owen Sound,6,1,oldies
+326,CJLF-FM-1,Trust Communications,Christian radio,44.567,-80.933,Life 100.3,75,w,90.1 FM,Owen Sound,6,1,christian radio
+327,CJOS-FM,Bell Media Radio,classic hits,44.567,-80.933,92.3 The Dock,9.4,kW,92.3 FM,Owen Sound,6,1,classic hits
+328,CKYC-FM,Bayshore Broadcasting,country,44.567,-80.933,Country 93,22,kW,93.7 FM,Owen Sound,6,1,country
+329,CBCB-FM,CBC Radio One,public news/talk,44.567,-80.933,CBC Radio One,100,kW,98.7 FM,Owen Sound,6,1,public news/talk
+330,CIXK-FM,Bayshore Broadcasting,adult contemporary,44.567,-80.933,Mix 106.5,28,kW,106.5 FM,Owen Sound,6,1,adult contemporary
+331,CBLA-FM-2,CBC Radio One,public news/talk,43.2,-80.38333,CBC Radio One,10.4,kW,89.1 FM,Paris,3,1,public news/talk
+332,CJBC-FM-2,Ici Musique,public music (French),43.2,-80.38333,Ici musique,14.8,kW,89.9 FM,Paris,3,1,public music
+333,CBL-FM-2,CBC Music,public music,43.2,-80.38333,CBC Music,8.23,kW,90.7 FM,Paris,3,1,public music
+334,CBPO-FM,CBC/Weatheradio Canada,weather alerts,45.333,-80.033,Weatheradio,20,w,88.9 FM,Parry Sound,3,1,weather alerts
+335,CBLR-FM,CBC Radio One,public news/talk,45.333,-80.033,CBC Radio One,180,w,89.9 FM,Parry Sound,3,1,public news/talk
+336,CKLP-FM,Vista Broadcast Group,adult hits,45.333,-80.033,The Moose 103 3,46.6,kW,103.3 FM,Parry Sound,3,1,adult hits
+337,CBCD-FM,CBC Radio One,public news/talk,45.817,-77.1,CBC Radio One,100,kW,92.5 FM,Pembroke,5,1,public news/talk
+338,CHVR-FM,Bell Media Radio,country,45.817,-77.1,Pure Country 96 7,100,kW,96.7 FM,Pembroke,5,1,country
+339,CKQB-FM-1,Corus Entertainment,Top 40/CHR,45.817,-77.1,Jump 106 9,7.5,kW,99.9 FM,Pembroke,5,1,top 40/chr
+340,CHRI-FM-2,Christian Hit Radio Inc.,Christian radio,45.817,-77.1,CHRI,22,w,100.7 FM,Pembroke,5,1,christian radio
+341,CIMY-FM,My Broadcasting Corporation,adult contemporary,45.817,-77.1,my FM,34,kW,104.9 FM,Pembroke,5,1,adult contemporary
+342,CFRH-FM,Radio Huronie,community radio (French),44.767,-79.933,CFRH,40,kW,88.1 FM,Penetanguishene,2,1,community radio
+343,CBCM-FM,CBC Radio One,public news/talk,44.767,-79.933,CBC Radio One,1.76,kW,89.7 FM,Penetanguishene,2,1,public news/talk
+344,CHLK-FM,Norm Wright and Brian Perkin (Perth FM Radio Inc.),community radio,44.9,-76.25,Lake 88,5.4,kW,88.1 FM,Perth,1,1,community radio
+345,CJLF-FM-2,Trust Communications,Christian radio,44.3,-78.317,Life 100.3,500,w,89.3 FM,Peterborough,10,1,christian radio
+346,CJMB-FM,My Broadcasting Corporation,modern rock/sports,44.3,-78.317,freq 90.5,175,w,90.5 FM,Peterborough,10,1,modern rock/sports
+347,CFFF-FM,Trent Radio,Community Radio,44.3,-78.317,Trent Radio,700,w,92.7 FM,Peterborough,10,1,community radio
+348,CJWV-FM,My Broadcasting Corporation,oldies,44.3,-78.317,Oldies 96.7,7,kW,96.7 FM,Peterborough,10,1,oldies
+349,CBCP-FM,CBC Radio One,public news/talk,44.3,-78.317,CBC Radio One,12.438,kW,98.7 FM,Peterborough,10,1,public news/talk
+350,CKPT-FM,Bell Media Radio,hot adult contemporary,44.3,-78.317,Energy 99 7,11,kW,99.7 FM,Peterborough,10,1,hot adult contemporary
+351,CKRU-FM,Corus Entertainment,hot adult contemporary,44.3,-78.317,100.5 Fresh Radio,15,kW,100.5 FM,Peterborough,10,1,hot adult contemporary
+352,CKWF-FM,Corus Entertainment,active rock,44.3,-78.317,101.5 The Wolf,15.2,kW,101.5 FM,Peterborough,10,1,active rock
+353,CBBP-FM,CBC Music,public music,44.3,-78.317,CBC Music,12.438,kW,103.9 FM,Peterborough,10,1,public music
+354,CKQM-FM,Bell Media Radio,country,44.3,-78.317,Pure Country 105,7.5,kW,105.1 FM,Peterborough,10,1,country
+355,CJTL-FM,Native Evangelical Fellowship of Canada,First Nations community radio,51.467,-90.183,CJTL,50,w,96.5 FM,Pickle Lake,2,1,first nations community radio
+356,CBQP-FM,CBC Radio One,public news/talk,51.467,-90.183,CBC Radio One,83,w,105.1 FM,Pickle Lake,2,1,public news/talk
+357,CIDE-FM-12,Wawatay,First Nations community radio,51.8,-94.0,Wahsa,10,w,91.9 FM,Pikangikum,2,1,first nations community radio
+358,CBQU-FM,CBC Radio One,public news/talk,51.8,-94.0,CBC Radio One,34,w,100.3 FM,Pikangikum,2,1,public news/talk
+359,CJPP-FM,Parks Canada,tourist information,41.96417,-82.51778,Point Pelee National Park,50,w,90.7 FM,Point Pelee National Park,1,1,tourist information
+360,CFBY-FM,Wawatay,First Nations community radio,52.1,-94.3,WRN,10,w,90.1 FM,Poplar Hill,2,1,first nations community radio
+361,CIDE-FM-13,Wawatay,First Nations community radio,52.1,-94.3,Wahsa,10,w,91.9 FM,Poplar Hill,2,1,first nations community radio
+362,CIYN-FM-2,My Broadcasting Corporation,classic hits,44.43389,-81.39278,my FM,3.1,kW,90.9 FM,Port Elgin,2,1,classic hits
+363,CFPS-FM,Bayshore Broadcasting,adult contemporary,44.43389,-81.39278,98 The Beach,8.3,kW,97.9 FM,Port Elgin,2,1,adult contemporary
+364,CFWN-FM,Small Town Radio (STR),community radio,43.95,-78.3,Northumberland 89 7,700,w,89.7 FM,Port Hope,1,1,community radio
+365,CKPP-FM,Vista Broadcast Group,hot adult contemporary,44.717,-75.517,107 9 Coast FM,4.2,kW,107.9 FM,Prescott,1,1,hot adult contemporary
+366,CJPE-FM,Prince Edward County Radio Corporation,community radio,44.0,-77.25,99.3 County FM,3,kW,99.3 FM,Prince Edward County,1,1,community radio
+367,CJTN-FM,Quinte Broadcasting,classic rock,44.183,-77.567,Rock 107,15,kW,107.1 FM,Quinte West,1,1,classic rock
+368,CBEA-FM,CBC Radio One,public news/talk,51.033,-93.833,CBC Radio One,82,w,90.5 FM,Red Lake,1,1,public news/talk
+369,CHMY-FM,My Broadcasting Corporation,adult contemporary,45.47167,-76.68306,my FM,7.1,kW,96.1 FM,Renfrew,2,1,adult contemporary
+370,CJHR-FM,Valley Heritage Radio,community radio,45.47167,-76.68306,Valley Heritage Radio,20,kW,98.7 FM,Renfrew,2,1,community radio
+371,CFMJ,Corus Entertainment,news/talk/sports,43.867,-79.433,Global N. R. 640 Toronto,50,kW,640 AM,Richmond Hill,1,1,news/talk/sports
+372,CBOF-4,Ici Radio-Canada Première,public news/talk (French),46.133,-77.55,IRC Première,40,w,1400 AM,Rolphton,1,1,public news/talk
+373,CKTB,Bell Media Radio,news/talk,43.183,-79.233,610 CKTB,10/5,kW,610 AM,St. Catharines,5,1,news/talk
+374,CFBN-FM,The St. Lawrence Seaway Management Corporation,tourist information,43.183,-79.233,St. Lawrence Seaway M. Co.,50,w,93.3 FM,St. Catharines,5,1,tourist information
+375,CHTZ-FM,Bell Media Radio,active rock,43.183,-79.233,97 7 HITZ FM,50,kW,97.7 FM,St. Catharines,5,1,active rock
+376,CFBU-FM,Brock University,campus radio,43.183,-79.233,CFBU,250,w,103.7 FM,St. Catharines,5,1,campus radio
+377,CHRE-FM,Bell Media Radio,adult contemporary,43.183,-79.233,105.7 EZ Rock,50,kW,105.7 FM,St. Catharines,5,1,adult contemporary
+378,VF8016,Faith Baptist Church of St. Thomas,Christian radio LPFM,42.775,-81.183,Faith Baptist Church,1,w,90.1 FM,St. Thomas,3,1,christian radio lpfm
+379,CKZM-FM,My Broadcasting Corporation,adult contemporary,42.775,-81.183,my FM,4.37,kW,94.1 FM,St. Thomas,3,1,adult contemporary
+380,CFHK-FM,Corus Entertainment,hot adult contemporary,42.775,-81.183,103 1 Fresh Radio,60,kW,103.1 FM,St. Thomas,3,1,hot adult contemporary
+381,CFEY-FM,Wawatay,First Nations community radio,53.86861,-92.17306,WRN,1,w,90.1 FM,Sachigo Lake,2,1,first nations community radio
+382,CIDE-FM-14,Wawatay,First Nations community radio,53.86861,-92.17306,Wahsa,10,w,91.9 FM,Sachigo Lake,2,1,first nations community radio
+383,CIDE-FM-15,Wawatay,First Nations community radio,53.067,-93.333,Wahsa,10,w,91.9 FM,Sandy Lake,2,1,first nations community radio
+384,CBQV-FM,CBC Radio One,public news/talk,53.067,-93.333,CBC Radio One,37,w,101.1 FM,Sandy Lake,2,1,public news/talk
+385,CHOK,Blackburn Radio,full service/variety,42.99944,-82.30889,CHOK,10,kW,1070 AM,Sarnia,6,1,full service/variety
+386,CBEG-FM,CBC Radio One,public news/talk,42.99944,-82.30889,CBC Radio One,1.8,kW,90.3 FM,Sarnia,6,1,public news/talk
+387,CFGX-FM,Blackburn Radio,adult contemporary,42.99944,-82.30889,99.9 The Fox,26,kW,99.9 FM,Sarnia,6,1,adult contemporary
+388,CBEF-3-FM,Ici Radio-Canada Première,public news/talk (French),42.99944,-82.30889,IRC Première,1.886,kW,101.5 FM,Sarnia,6,1,public news/talk
+389,CHOK-1-FM,Blackburn Radio,full service/variety,42.99944,-82.30889,CHOK,200,w,103.9 FM,Sarnia,6,1,full service/variety
+390,CHKS-FM,Blackburn Radio,classic hits,42.99944,-82.30889,Cool 106.3,50,kW,106.3 FM,Sarnia,6,1,classic hits
+391,CBON-FM-18,Ici Radio-Canada Première,public news/talk (French),46.533,-84.35,IRC Première,3.59,kW,88.1 FM,Sault Ste. Marie,5,1,public news/talk
+392,CBSM-FM,CBC Radio One,public news/talk,46.533,-84.35,CBC Radio One,46,kW,89.5 FM,Sault Ste. Marie,5,1,public news/talk
+393,CHAS-FM,Rogers Communications,hot adult contemporary,46.533,-84.35,Kiss 100.5,13.9,kW,100.5 FM,Sault Ste. Marie,5,1,hot adult contemporary
+394,CJQM-FM,Rogers Communications,country,46.533,-84.35,Country 104.3,100,kW,104.3 FM,Sault Ste. Marie,5,1,country
+395,CJTK-FM-8,Eternacom,Christian radio,46.533,-84.35,KFM,2.2,kW,106.5 FM,Sault Ste. Marie,5,1,christian radio
+396,CBQL-FM,CBC Radio One,public news/talk,50.23861,-90.70861,CBC Radio One,135,w,104.9 FM,Savant Lake,1,1,public news/talk
+397,CJRK-FM,8041393 Canada Inc.,multilingual,43.7737,-79.2446,East FM,1.2,kW,102.7 FM,Scarborough,1,1,multilingual
+398,CBLB-FM,CBC Radio One,public news/talk,48.817,-87.267,CBC Radio One,130,w,90.9 FM,Schreiber,1,1,public news/talk
+399,CHIX-FM,Wawatay,First Nations community radio,48.72398,-92.42558,WRN,10,w,89.9 FM,Seine River,1,1,first nations community radio
+400,CBLA-FM-4,CBC Radio One,public news/talk,44.083,-80.2,CBC Radio One,6,kW,102.5 FM,Shelburne,2,1,public news/talk
+401,CFDC-FM,Bayshore Broadcasting,country,44.083,-80.2,Country 105,36.2,kW,104.9 FM,Shelburne,2,1,country
+402,CKED-FM,Northwest Broadcasting,hot adult contemporary,48.583,-88.833,Energy 103 104,10,w,103.5 FM,Shuniah,1,1,hot adult contemporary
+403,CHCD-FM,My Broadcasting Corporation,adult contemporary,42.83333,-80.3,my FM,50,kW,98.9 FM,Simcoe,2,1,adult contemporary
+404,CKNC-FM,My Broadcasting Corporation,oldies,42.83333,-80.3,Oldies 99.7,18,kW,99.7 FM,Simcoe,2,1,oldies
+405,CKWT-FM,Wawatay,First Nations community radio,50.1,-91.917,WRN,224,w,89.9 FM,Sioux Lookout,4,1,first nations community radio
+406,CIDE-FM,Wawatay,First Nations community radio,50.1,-91.917,Wahsa,10,w,91.9 FM,Sioux Lookout,4,1,first nations community radio
+407,CBLS-FM,CBC Radio One,public news/talk,50.1,-91.917,CBC Radio One,500,w,95.3 FM,Sioux Lookout,4,1,public news/talk
+408,CKQV-FM-3,Norwesto Communications,CHR,50.1,-91.917,Q104,49,w,104.1 FM,Sioux Lookout,4,1,chr
+409,CBQS-FM,CBC Radio One,public news/talk,49.4,-94.08,CBC Radio One,1.3,kW,95.7 FM,Sioux Narrows,1,1,public news/talk
+410,CHBJ-FM,Wawatay,First Nations community radio,51.167,-91.583,WRN,10,w,90.1 FM,Slate Falls,2,1,first nations community radio
+411,CIDE-FM-16,Wawatay,First Nations community radio,51.167,-91.583,Wahsa,10,w,91.9 FM,Slate Falls,2,1,first nations community radio
+412,CJET-FM,Rogers Communications,adult hits,44.9,-76.017,Jack 92 3,17,kW,92.3 FM,Smiths Falls,2,1,adult hits
+413,CKBY-FM,Rogers Communications,country,44.9,-76.017,Country 101 1,100,kW,101.1 FM,Smiths Falls,2,1,country
+414,CKGN-FM-1,Radio communautaire KapNord,community radio (French),49.283,-81.633,CKGN,250,w,94.7 FM,Smooth Rock Falls,1,1,community radio
+415,CJTK-FM-10,Eternacom,Christian radio,45.717,-82.2,KFM,530,w,104.9 FM,Spring Bay,1,1,christian radio
+416,CJAI-FM,Amherst Island Public Radio,community radio,44.15,-76.72,CJAI,250,w,92.1 FM,Stella,1,1,community radio
+417,CJCS-FM,Vista Broadcast Group,oldies,43.37083,-80.98194,107 1  Juice FM,4,kW,107.1 FM,Stratford,2,1,oldies
+418,CHGK-FM,Vista Broadcast Group,adult contemporary,43.37083,-80.98194,107 7 2Day FM,6,kW,107.7 FM,Stratford,2,1,adult contemporary
+419,CJMI-FM,My Broadcasting Corporation,adult contemporary,42.9575,-81.61667,my FM,1.75,kW,105.7 FM,Strathroy,1,1,adult contemporary
+420,CHYQ-FM,Le5 Communications,hot adult contemporary (French),46.367,-79.917,Le Loup 97.1,6.5,kW,97.1 FM,Sturgeon Falls,2,1,hot adult contemporary
+421,CFSF-FM,Vista Broadcast Group,adult contemporary,46.367,-79.917,99 3 The Moose,1.35,kW,99.3 FM,Sturgeon Falls,2,1,adult contemporary
+422,CJKX-FM-1,Durham Radio,country,44.26361,-79.06556,KX 96,5,kW,89.9 FM,Sunderland,1,1,country
+423,CJTK-FM-9,Eternacom,Christian radio,45.767,-79.4,KFM,540,w,98.3 FM,Sundridge,1,1,christian radio
+424,CJTI-FM,1158556 Ontario Ltd. (Roger de Brabant),tourist information,47.067,-79.783,CHTI,1,w,92.1 FM,Temagami,2,1,tourist information
+425,CBCS-FM-1,CBC Radio One,public news/talk,47.067,-79.783,CBC Radio One,50,w,106.1 FM,Temagami,2,1,public news/talk
+426,CBON-FM-2,Ici Radio-Canada Première,public news/talk (French),47.517,-79.683,IRC Première,780,w,99.7 FM,Temiskaming Shores,3,1,public news/talk
+427,CBCY-FM,CBC Radio One,public news/talk,47.517,-79.683,CBC Radio One,780,w,102.3 FM,Temiskaming Shores,3,1,public news/talk
+428,CJTT-FM,Connelly Communications,adult contemporary,47.517,-79.683,CJTT FM,10,kW,104.5 FM,Temiskaming Shores,3,1,adult contemporary
+429,CKBK-FM,Lenape Community Radio Society,First Nations community radio,42.55167,-81.97722,The Buck,50,w,104.3 FM,Thamesville,1,1,first nations community radio
+430,CBQT-FM,CBC Radio One,public news/talk,48.38222,-89.24611,CBC Radio One,23.73,kW,88.3 FM,Thunder Bay,12,1,public news/talk
+431,CBON-FM-20,Ici Radio-Canada Première,public news/talk (French),48.38222,-89.24611,IRC Première,16.5,kW,89.3 FM,Thunder Bay,12,1,public news/talk
+432,CKSI-FM,Thunder Bay Information Radio,tourist information,48.38222,-89.24611,T. B. Information Radio,50,w,90.5 FM,Thunder Bay,12,1,tourist information
+433,CKPR-FM,Dougall Media,adult contemporary,48.38222,-89.24611,91 5 CKPR,100,kW,91.5 FM,Thunder Bay,12,1,adult contemporary
+434,CJSD-FM,Dougall Media,active rock,48.38222,-89.24611,Rock 94,93,kW,94.3 FM,Thunder Bay,12,1,active rock
+435,CJOA-FM,St. Joseph's Care Group,Christian radio,48.38222,-89.24611,UCB Canada,250,w,95.1 FM,Thunder Bay,12,1,christian radio
+436,CITB-FM,Superior Info Radio,tourist information,48.38222,-89.24611,Superior Information Radio,8,w,97.1 FM,Thunder Bay,12,1,tourist information
+437,CJTL-FM-1,Native Evangelical Fellowship of Canada,First Nations community radio,48.38222,-89.24611,CJTL,50,w,98.1 FM,Thunder Bay,12,1,first nations community radio
+438,CJUK-FM,Acadia Broadcasting,adult contemporary,48.38222,-89.24611,99 9 The Bay,250,w,99.9 FM,Thunder Bay,12,1,adult contemporary
+439,CBQ-FM,CBC Music,public music,48.38222,-89.24611,CBC Music,25,kW,101.7 FM,Thunder Bay,12,1,public music
+440,CILU-FM,Lakehead University,campus radio,48.38222,-89.24611,LU Radio,134,w,102.7 FM,Thunder Bay,12,1,campus radio
+441,CKTG-FM,Acadia Broadcasting,country,48.38222,-89.24611,Country 105,100,kW,105.3 FM,Thunder Bay,12,1,country
+442,CBCL-FM-1,CBC Radio One,public news/talk,42.86667,-80.73333,CBC Radio One,1.28,kW,88.7 FM,Tillsonburg,3,1,public news/talk
+443,CKOT-FM,Tillsonburg Broadcasting,adult contemporary,42.86667,-80.73333,Easy 101 3,26,kW,101.3 FM,Tillsonburg,3,1,adult contemporary
+444,CJDL-FM,Tillsonburg Broadcasting,country,42.86667,-80.73333,Country 107.3,7.8,kW,107.3 FM,Tillsonburg,3,1,country
+445,CJQQ-FM,Rogers Communications,active rock,48.467,-81.333,92 1 Rock,40,kW,92.1 FM,Timmins,8,1,active rock
+446,CHMT-FM,Vista Broadcast Group,adult hits,48.467,-81.333,93 1 Moose FM,16.4,kW,93.1 FM,Timmins,8,1,adult hits
+447,CBCJ-FM,CBC Radio One,public news/talk,48.467,-81.333,CBC Radio One,11,kW,96.1 FM,Timmins,8,1,public news/talk
+448,CBON-FM-25,Ici Radio-Canada Première,public news/talk (French),48.467,-81.333,IRC Première,11,kW,97.1 FM,Timmins,8,1,public news/talk
+449,CKGB-FM,Rogers Communications,hot adult contemporary,48.467,-81.333,Kiss 99.3,40,kW,99.3 FM,Timmins,8,1,hot adult contemporary
+450,CHYK-FM,Le5 Communications,hot adult contemporary (French),48.467,-81.333,Le Loup 104.1,2.8,kW,104.1 FM,Timmins,8,1,hot adult contemporary
+451,CJTK-FM-5,Eternacom,Christian radio,48.467,-81.333,KFM,1.4,kW,105.5 FM,Timmins,8,1,christian radio
+452,CJWT-FM,Wawatay,First Nations community radio,48.467,-81.333,WRN,50,w,106.7 FM,Timmins,8,1,first nations community radio
+453,CJCL,Rogers Communications,sports,43.74167,-79.37333,Sportsnet 590 The Fan,50,kW,590 AM,Toronto,36,1,sports
+454,CFTR,Rogers Communications,news,43.74167,-79.37333,680 News,50,kW,680 AM,Toronto,36,1,news
+455,CFZM,ZoomerMedia,pop standards,43.74167,-79.37333,Zoomer Radio,50,kW,740 AM,Toronto,36,1,pop standards
+456,CJBC,Ici Radio-Canada Première,public news/talk (French),43.74167,-79.37333,IRC Première,50,kW,860 AM,Toronto,36,1,public news/talk
+457,CFRB,Bell Media Radio,news/talk,43.74167,-79.37333,NewsTalk 1010,50,kW,1010 AM,Toronto,36,1,news/talk
+458,CHUM,Bell Media Radio,sports,43.74167,-79.37333,TSN 1050,50,kW,1050 AM,Toronto,36,1,sports
+459,CJRU,Ryerson University,campus radio,43.74167,-79.37333,The Scope,99,w,1280 AM,Toronto,36,1,campus radio
+460,CHKT,Fairchild Radio,multilingual,43.74167,-79.37333,AM 1430,50,kW,1430 AM,Toronto,36,1,multilingual
+461,CHIN,CHIN Radio/TV International,multilingual,43.74167,-79.37333,CHIN,50/30,kW,1540 AM,Toronto,36,1,multilingual
+462,CHHA,San Lorenzo Latin American Community Centre,community radio (Spanish),43.74167,-79.37333,CHHA 1610,6.25,kW,1610 AM,Toronto,36,1,community radio
+463,CHTO,Canadian Hellenic Toronto Radio,multilingual,43.74167,-79.37333,CHTO AM,6/1,kW,1690 AM,Toronto,36,1,multilingual
+464,CIND-FM,Rock 95 Broadcasting,indie rock,43.74167,-79.37333,Indie 88,12,kW,88.1 FM,Toronto,36,1,indie rock
+465,CIRV-FM,Frank Alvarez,multilingual,43.74167,-79.37333,Red FM,4.18,kW,88.9 FM,Toronto,36,1,multilingual
+466,CIUT-FM,University of Toronto,campus radio,43.74167,-79.37333,CIUT,15,kW,89.5 FM,Toronto,36,1,campus radio
+467,CJBC-FM,Ici Musique,public music (French),43.74167,-79.37333,Ici musique,10,kW,90.3 FM,Toronto,36,1,public music
+468,CJRT-FM,CJRT-FM Inc.,jazz,43.74167,-79.37333,Jazz FM 91,40,kW,91.1 FM,Toronto,36,1,jazz
+469,CHIN-1-FM,CHIN Radio/TV International,multilingual,43.74167,-79.37333,CHIN,5,kW,91.9 FM,Toronto,36,1,multilingual
+470,CKIS-FM,Rogers Communications,CHR,43.74167,-79.37333,Kiss 92 5,13,kW,92.5 FM,Toronto,36,1,chr
+471,CFXJ-FM,Stingray Digital,Rhythmic contemporary,43.74167,-79.37333,Flow 93 5,3.706,kW,93.5 FM,Toronto,36,1,rhythmic contemporary
+472,CBL-FM,CBC Music,public music,43.74167,-79.37333,CBC Music,38,kW,94.1 FM,Toronto,36,1,public music
+473,CJKX-FM-2,Durham Radio,country,43.74167,-79.37333,KX 96,220,w,95.9 FM,Toronto,36,1,country
+474,CFMZ-FM,ZoomerMedia,classical,43.74167,-79.37333,Classical FM,60,kW,96.3 FM,Toronto,36,1,classical
+475,CKHC-FM,Humber College,campus radio,43.74167,-79.37333,Radio Humber,60,w,96.9 FM,Toronto,36,1,campus radio
+476,CHBM-FM,Stingray Digital,classic hits,43.74167,-79.37333,boom 97 3,28.9,kW,97.3 FM,Toronto,36,1,classic hits
+477,CHFI-FM,Rogers Communications,soft adult contemporary,43.74167,-79.37333,98.1 CHFI,44,kW,98.1 FM,Toronto,36,1,soft adult contemporary
+478,CKFG-FM,Intercity Broadcasting Network,multilingual,43.74167,-79.37333,G98 7,1,kW,98.7 FM,Toronto,36,1,multilingual
+479,CBLA-FM,CBC Radio One,public news/talk,43.74167,-79.37333,CBC Radio One,98,kW,99.1 FM,Toronto,36,1,public news/talk
+480,CKFM-FM,Bell Media Radio,CHR,43.74167,-79.37333,99 9 Virgin Radio,40,kW,99.9 FM,Toronto,36,1,chr
+481,CHIN-FM,CHIN Radio/TV International,multilingual,43.74167,-79.37333,CHIN,8.5,kW,100.7 FM,Toronto,36,1,multilingual
+482,CJSA-FM,Diversity Media Group,multilingual,43.74167,-79.37333,CMR,850,w,101.3 FM,Toronto,36,1,multilingual
+483,CIRR-FM,Evanov Communications,LGBT-targeted CHR,43.74167,-79.37333,Proud FM,225,w,103.9 FM,Toronto,36,1,lgbt-targeted chr
+484,CHUM-FM,Bell Media Radio,hot adult contemporary,43.74167,-79.37333,CHUM 104 5,40,kW,104.5 FM,Toronto,36,1,hot adult contemporary
+485,CHOQ-FM,Cooperative Radio-Toronto,community radio (French),43.74167,-79.37333,CHOQ FM,1.5,kW,105.1 FM,Toronto,36,1,community radio
+486,CHRY-FM,Canadian Centre for Civic Media and Arts Development Inc.,urban alternative,43.74167,-79.37333,Vibe 105,250,w,105.5 FM,Toronto,36,1,urban alternative
+487,CFPT-FM,First Peoples Radio Inc.,First Nations,43.74167,-79.37333,elmnt fm,2.95,kW,106.5 FM,Toronto,36,1,first nations
+488,CILQ-FM,Corus Entertainment,classic rock,43.74167,-79.37333,Q107,40,kW,107.1 FM,Toronto,36,1,classic rock
+489,CIUX-FM,Frank Torres (OBCI),classic hits,44.117,-79.133,105.5 Hits FM,900,w,105.5 FM,Uxbridge,1,1,classic hits
+490,CKQV-FM,Norwesto Communications,CHR,49.85528,-93.40222,Q104,1.6,kW,103.3 FM,Vermilion Bay,1,1,chr
+491,CKXS-FM,Five Amigos Broadcasting,variety hits,42.59472,-82.38417,99 1 CKXS,3,kW,99.1 FM,Wallaceburg,1,1,variety hits
+492,CFRZ-FM,Walpole Island First Nation Radio,First Nations community radio,42.55,-82.483,CFRZ,50,w,98.3 FM,Walpole Island,1,1,first nations community radio
+493,CIDE-FM-17,Wawatay,First Nations community radio,53.72111,-89.53889,Wahsa,10,w,91.9 FM,Wapekeka,1,1,first nations community radio
+494,CHGB-FM,Bayshore Broadcasting,adult hits,44.52056,-80.01667,97 7 Max FM,700,w,97.7 FM,Wasaga Beach,1,1,adult hits
+495,CHRZ-FM,Wasauksing Communications Group,First Nations community radio,45.283,-80.15,ReZ 91,60,w,91.3 FM,Wasauksing,1,1,first nations community radio
+496,CKWR-FM,Wired World Inc.,community radio,43.467,-80.517,98.5 CKWR,2.4,kW,98.5 FM,Waterloo,5,1,community radio
+497,CKKW-FM,Bell Media Radio,oldies,43.467,-80.517,99.5 KFun,4.3,kW,99.5 FM,Waterloo,5,1,oldies
+498,CKMS-FM,Radio Waterloo,community radio,43.467,-80.517,CKMS,250,w,102.7 FM,Waterloo,5,1,community radio
+499,CFCA-FM,Bell Media Radio,hot adult contemporary,43.467,-80.517,105 3 Virgin Radio,100,kW,105.3 FM,Waterloo,5,1,hot adult contemporary
+500,CIKZ-FM,Rogers Communications,country,43.467,-80.517,Country 106.7,5,kW,106.7 FM,Waterloo,5,1,country
+501,CBLJ-FM,CBC Radio One,public news/talk,47.99306,-84.77361,CBC Radio One,4.807,kW,88.3 FM,Wawa,3,1,public news/talk
+502,CBON-FM-27,Ici Radio-Canada Première,public news/talk (French),47.99306,-84.77361,IRC Première,890,w,90.7 FM,Wawa,3,1,public news/talk
+503,CJWA-FM,Labbe Media,adult contemporary,47.99306,-84.77361,Jjam FM,210,w,107.1 FM,Wawa,3,1,adult contemporary
+504,CIDE-FM-18,Wawatay,First Nations community radio,52.967,-91.267,Wahsa,10,w,91.9 FM,Weagamow Lake,1,1,first nations community radio
+505,CIDE-FM-20,Wawatay,First Nations community radio,52.95,-87.367,Wahsa,8,w,91.9 FM,Webequie,1,1,first nations community radio
+506,CKYY-FM,[Stingray Media],country,42.983,-79.233,Country 89,4.25,kW,89.1 FM,Welland,2,1,country
+507,CIXL-FM,[Stingray Media],classic rock,42.983,-79.233,91.7 Giant FM,50,kW,91.7 FM,Welland,2,1,classic rock
+508,CIWS-FM,WhiStle Community Radio,community radio,43.96667,-79.25,Whistle Radio,50,w,102.9 FM,Whitchurch–Stouffville,1,1,community radio
+509,CBLW-FM,CBC Radio One,public news/talk,48.583,-85.283,CBC Radio One,50,w,97.7 FM,White River,2,1,public news/talk
+510,CFNO-FM-8,Dougall Media,adult contemporary,48.583,-85.283,CFNO,20,w,100.7 FM,White River,2,1,adult contemporary
+511,CBCW-FM,CBC Radio One,public news/talk,45.49667,-78.02389,CBC Radio One,162,w,98.5 FM,Whitney,1,1,public news/talk
+512,CBL-FM-4,CBC Music,public music,44.74361,-81.14083,CBC Music,20.22,kW,97.1 FM,Wiarton,1,1,public music
+513,CHCR-FM-1,Homegrown Community Radio,community radio,45.5114,-77.5602,CHCR,35,w,104.5 FM,Wilno,1,1,community radio
+514,CKWW,Bell Media Radio,oldies,42.283,-83.0,AM 580,500,w,580 AM,Windsor,14,1,oldies
+515,CKLW,Bell Media Radio,news/talk,42.283,-83.0,AM 800,50,kW,800 AM,Windsor,14,1,news/talk
+516,CBEF,Ici Radio-Canada Première,public news/talk (French),42.283,-83.0,IRC Première,10,kW,1550 AM,Windsor,14,1,public news/talk
+517,CIMX-FM,Bell Media Radio,modern rock,42.283,-83.0,89X,100,kW,88.7 FM,Windsor,14,1,modern rock
+518,CBE-FM,CBC Music,public music,42.283,-83.0,CBC Music,100,kW,89.9 FM,Windsor,14,1,public music
+519,CJAH-FM,United Christian Broadcasters Canada,Christian radio,42.283,-83.0,UCB Canada,7.5,kW,90.5 FM,Windsor,14,1,christian radio
+520,CIDR-FM,Bell Media Radio,adult album alternative,42.283,-83.0,93 9 The River,100,kW,93.9 FM,Windsor,14,1,adult album alternative
+521,CJWF-FM,Blackburn Radio,country,42.283,-83.0,Country 95 9,11.8,kW,95.9 FM,Windsor,14,1,country
+522,CBEW-FM,CBC Radio One,public news/talk,42.283,-83.0,CBC Radio One,19,kW,97.5 FM,Windsor,14,1,public news/talk
+523,CJAM-FM,University of Windsor,campus radio,42.283,-83.0,CJAM,2.084,kW,99.1 FM,Windsor,14,1,campus radio
+524,CKUE-FM-1,Blackburn Radio,classic hits,42.283,-83.0,Cool FM,9,kW,100.7 FM,Windsor,14,1,classic hits
+525,CINA-FM,Neeti P. Ray (OBCI),multilingual,42.283,-83.0,CINA Radio,5,kW,102.3 FM,Windsor,14,1,multilingual
+526,CJBC-FM-1,Ici Musique,public music (French),42.283,-83.0,Ici musique,6,kW,103.9 FM,Windsor,14,1,public music
+527,CBEF-2-FM,Ici Radio-Canada Première,public news/talk (French),42.283,-83.0,IRC Première,2.4,kW,105.5 FM,Windsor,14,1,public news/talk
+528,CKNX,Blackburn Radio,country,43.88778,-81.31167,CKNX,10/1,kW,920 AM,Wingham,4,1,country
+529,CIBU-FM,Blackburn Radio,classic rock,43.88778,-81.31167,Classic Rock 94 5,75,kW,94.5 FM,Wingham,4,1,classic rock
+530,CBLA-FM-3,CBC Radio One,public news/talk,43.88778,-81.31167,CBC Radio One,30,kW,100.9 FM,Wingham,4,1,public news/talk
+531,CKNX-FM,Blackburn Radio,adult contemporary,43.88778,-81.31167,101.7 The One,100,kW,101.7 FM,Wingham,4,1,adult contemporary
+532,CJFH-FM,Sound of Faith Broadcasting,Christian radio,43.13056,-80.74667,Hope FM,37,w,94.3 FM,Woodstock,3,1,christian radio
+533,CKDK-FM,Corus Entertainment,country,43.13056,-80.74667,Country 104,51,kW,103.9 FM,Woodstock,3,1,country
+534,CIHR-FM,Byrnes Communications,adult contemporary,43.13056,-80.74667,Heart FM,20,kW,104.7 FM,Woodstock,3,1,adult contemporary
+535,CIDE-FM-19,Wawatay,First Nations community radio,52.85194,-89.28611,Wahsa,10,w,91.9 FM,Wunnummin Lake,1,1,first nations community radio
